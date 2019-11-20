@@ -1,0 +1,9 @@
+@import url("geral.css");
+@import url("header.css");
+/* @import url("footer.css"); */
+
+
+ /* Home */
+ @import url("home/main-nav.css");
+ @import url("home/main-content.css");
+

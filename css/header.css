@@ -1,12 +1,19 @@
 header {
-    height: 200px;
+    height: 180px;
     width: 100%;
 }
 
 img {
     height: 100%;
-    margin: 0 auto;
-    text-align: center;
-    display: block;
+    top: 0px;
+    left: 100px;
 }
+
+.signin {
+    position: absolute;
+    right: 40px;
+    top: 85px;
+}
+
+
 

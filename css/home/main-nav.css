@@ -1,0 +1,7 @@
+.main-nav {
+    width: 25%;
+    height: 100vh;
+    float: left;
+    display: inline-block;
+    background-color: red;
+}
