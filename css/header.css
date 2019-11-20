@@ -11,6 +11,8 @@ img {
 
 .signin {
     position: absolute;
+    text-decoration: none;
+    color: black;
     right: 40px;
     top: 85px;
 }

@@ -1,7 +1,20 @@
 .main-nav {
-    width: 25%;
+    width: 20%;
     height: 100vh;
     float: left;
     display: inline-block;
-    background-color: red;
+}
+
+.main-nav ul {
+    list-style: none;
+}
+
+.main-nav .item {
+    margin: 10px 0;
+}
+
+.main-nav .item a {
+    font-size: 24px;
+    text-decoration: none;
+    color: #000000;
 }
