@@ -2,7 +2,6 @@
     width: 75%;
     height: 100vh;
     float: right;
-    background-color: green;
     display: inline-block;
 }
 
@@ -16,6 +15,5 @@
     box-sizing: border-box;
     padding: 0 20px;
     width: 33.33%;
-    height: 190px;
-    background: blue;
+    height: 200px;
 }
